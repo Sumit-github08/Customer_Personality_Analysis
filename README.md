@@ -1,3 +1,4 @@
 # Customer_Personality_Analysis
 
-Implementing the KMeans Clustering on Customer Data and Also Xgboost model.
+1. Implementing the KMeans Clustering on Customer Data
+2. Build a classification model (binomial or multinomial - recommended: xgboost python implementation) on the promotion done by the   company.
